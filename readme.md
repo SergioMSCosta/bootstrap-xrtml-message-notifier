@@ -1,5 +1,5 @@
 # bootstrap-xrtml-message-notifier #
-This is the code for my blog post titled "[Realtime message notifier on Bootstrap with xRTML](http://sergiocosta.me/post/37836769827/realtime-message-notifier-on-bootstrap-with-xrtml)".
+This is the code for my blog post entitled "[Realtime message notifier on Bootstrap with xRTML](http://sergiocosta.me/post/37836769827/realtime-message-notifier-on-bootstrap-with-xrtml)".
 
 I hope you enjoy the post and the example. If you have any questions, doubts, corrections or ideas, please feel free to [drop by my blog](http://sergiocosta.me/) and contact me.
 
